@@ -1,0 +1,5 @@
+{
+  "name": "ProTrack Inventory & Auth",
+  "description": "A robust React-based product management dashboard featuring secure mock authentication, dynamic product CRUD operations, and real-time stock monitoring with a clean, professional UI.",
+  "requestFramePermissions": []
+}
